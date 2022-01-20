@@ -20,7 +20,7 @@ title                    : "오늘도 달리는 거북이 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "오늘도 달리는 거북이 개발자"
-description              : "어제도, 오늘도, 내일도 달리는 개발자의 무료나눔"
+description              : "어제도, 오늘도, 내일도 달리는 거북이 개발자의 무료나눔 "
 url                      : "https://sthBetter-J.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "오늘도 달리는 거북이 개발자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "어제도, 오늘도, 내일도 달리는 거북이 개발자의 무료나눔 공간입니다."
+  bio              : "어제도, 오늘도, 내일도 달리는 거북이 개발자의 무료나눔 공간."
   location         : "Somewhere in South Korea."
   email            :
   links:
