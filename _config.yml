@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "시나브로 성장하는 거북이"
+title                    : "시나브로 성장하는 화이트햇 거북이"
 title_separator          : "-"
-subtitle                 : "화이트해커로 가는 길"
-name                     : "White Turtle"
-description              : "기록은 기억을 지배한다. "
-url                      : "https://sthBetter-J.github.io"
+subtitle                 : #
+name                     : "Whitehat Turtle"
+description              : # "화이트해커로 가는 길"
+url                      : "https://whitehatTurtle.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "masthead_title" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "기록은 기억을 지배한다." # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "White Turtle"
+  name             : "Whitehat Turtle"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기록은 기억을 지배한다"
+  bio              : "화이트해커로 가는 길"
   location         : "Anywhere on the internet."
   email            :
   links:
