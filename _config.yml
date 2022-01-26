@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "시나브로 성장하는 거북이"
 title_separator          : "-"
-subtitle                 : #
-name                     : "🐢"
+subtitle                 : "화이트해커로 가는 길"
+name                     : "White Turtle"
 description              : "기록은 기억을 지배한다. "
 url                      : "https://sthBetter-J.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "화이트해커가 되고 싶은 해승"
+  name             : "White Turtle"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "turtle"
-  location         : "Somewhere in South Korea."
+  bio              : "기록은 기억을 지배한다"
+  location         : "Anywhere on the internet."
   email            :
   links:
     - label: "Email"
